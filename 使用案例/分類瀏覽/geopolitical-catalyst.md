@@ -2,7 +2,7 @@
 
 ## 財富管理 / RIA
 
-- [川普威脅與西班牙的貿易關係 (EWP)](../wealth-management-ria/trump-threatens-spain-trade-ties-ewp.md)
+- [川普威脅與西班牙的貿易關係 (EWP)](../財富管理RIA/trump-threatens-spain-trade-ties-ewp.md)
 
 ---
 
