@@ -1,23 +1,29 @@
 # Reflexivity 使用案例
 
-依照英文 canonical 結構，使用案例會按使用者角色與洞察類型整理。翻譯內容將陸續加入。
+可依**角色**或**洞察類型**瀏覽 Reflexivity 的實際案例。點選任一項目即可進入對應的獨立使用案例文章。
 
-## 依使用者角色瀏覽
+> 以下案例根據特定日期的平台輸出整理。使用前請與最新市場資料核對，或作為說明性案例展示。
 
-- [財富管理 / RIA](wealth-management-ria/)
-- [避險基金 Tier 3](hedge-fund-tier-3/)
-- [避險基金 Tier 2](hedge-fund-tier-2/)
-- [避險基金 Tier 1](hedge-fund-tier-1/)
-- [長期資產管理機構](long-only-asset-manager/)
+## 依角色瀏覽
+
+- [財富管理 / RIA](wealth-management-ria/) — 6 篇
+- [對沖基金 Tier 3（小型 / 新興）](hedge-fund-tier-3/) — 5 篇
+- [對沖基金 Tier 2](hedge-fund-tier-2/) — 7 篇
+- [對沖基金 Tier 1](hedge-fund-tier-1/) — 5 篇
+- [Long-only 資產管理人](long-only-asset-manager/) — 5 篇
 
 ## 依洞察類型瀏覽
 
-- [市場催化劑](by-category/market-catalyst.md)
-- [地緣政治催化劑](by-category/geopolitical-catalyst.md)
-- [公司催化劑](by-category/company-catalyst.md)
-- [財報催化劑](by-category/earnings-catalyst.md)
-- [情境洞察](by-category/scenario-insight.md)
+- [Market Catalyst](by-category/market-catalyst.md) — 9 篇
+- [Geopolitical Catalyst](by-category/geopolitical-catalyst.md) — 1 篇
+- [Company Catalyst](by-category/company-catalyst.md) — 8 篇
+- [Earnings Catalyst](by-category/earnings-catalyst.md) — 7 篇
+- [Scenario Insight](by-category/scenario-insight.md) — 3 篇
+
+## Resource
+
+本集合整理自 **Reflexivity Insights Proof Set — Sales Enablement.docx**（2026-09-07 提供）。每篇獨立文章都保留原始 Live Reflexivity Insight 連結。
 
 ---
 
-如有問題或需要更多資訊，請聯絡 **support@reflexivity.com**。
+如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
