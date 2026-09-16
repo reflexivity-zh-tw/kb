@@ -1,0 +1,99 @@
+name: Audit Traditional Chinese Taiwan public KB
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check public pages
+        shell: python
+        run: |
+          from pathlib import Path
+          from urllib.parse import unquote
+          import re
+          import subprocess
+
+          raw = subprocess.check_output(['git', '-c', 'core.quotepath=false', 'ls-files', '-z', '*.md'])
+          files = [Path(p.decode('utf-8')) for p in raw.split(b'\0') if p]
+          errors = []
+          warnings = []
+          stable_ids = {}
+          link_re = re.compile(r'!?\[[^\]]*\]\(([^)]+)\)')
+
+          def split_metadata(text):
+              if text.startswith('<!--'):
+                  end = text.find('-->')
+                  if end >= 0:
+                      return text[:end+3], text[end+3:], 'html-comment'
+              if text.startswith('---'):
+                  end = text.find('\n---', 3)
+                  if end >= 0:
+                      return text[:end+4], text[end+4:], 'yaml'
+              return '', text, 'none'
+
+          for path in files:
+              text = path.read_text(encoding='utf-8')
+              meta, visible, meta_style = split_metadata(text)
+
+              # Existing proof-set pages may contain legacy visible YAML in
+              # older states, but new asset-class localization pages must use
+              # hidden metadata.
+              if meta_style == 'yaml':
+                  if str(path).startswith('使用案例/依資產類別/'):
+                      errors.append(f'{path}: new asset-class page uses visible YAML/front matter')
+                  else:
+                      warnings.append(f'{path}: legacy visible YAML/front matter')
+
+              id_match = re.search(r'^id:\s*(RX-[A-Z]+-\d{4})\s*$', meta, re.M)
+              if id_match:
+                  stable_id = id_match.group(1)
+                  previous = stable_ids.get(stable_id)
+                  if previous is not None:
+                      errors.append(f'duplicate stable id {stable_id}: {previous} and {path}')
+                  else:
+                      stable_ids[stable_id] = path
+
+              for m in link_re.finditer(visible):
+                  target = m.group(1).strip()
+                  if target.startswith('<') and target.endswith('>'):
+                      target = target[1:-1]
+                  if not target or target.startswith(('http://','https://','mailto:','#','tel:')):
+                      continue
+                  target = target.split('#',1)[0].split('?',1)[0]
+                  if not target:
+                      continue
+                  resolved = (path.parent / unquote(target)).resolve()
+                  try:
+                      resolved.relative_to(Path('.').resolve())
+                  except ValueError:
+                      errors.append(f'{path}: local link escapes repository: {target}')
+                      continue
+                  if not resolved.exists():
+                      errors.append(f'{path}: broken local link/image: {target}')
+
+          if Path('.tmp').exists():
+              leftovers = [str(p) for p in Path('.tmp').rglob('*') if p.is_file()]
+              if leftovers:
+                  errors.append('.tmp contains publication leftovers: ' + ', '.join(leftovers))
+
+          print(f'Markdown files checked: {len(files)}')
+          print(f'Stable IDs checked: {len(stable_ids)}')
+          if warnings:
+              print('\nKnown legacy warnings:')
+              for item in warnings:
+                  print('WARN', item)
+          if errors:
+              print('\nAudit errors:')
+              for item in errors:
+                  print('ERROR', item)
+              raise SystemExit(1)
+          print('\nAUDIT PASSED')
