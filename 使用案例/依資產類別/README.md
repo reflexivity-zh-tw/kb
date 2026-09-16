@@ -7,6 +7,7 @@
 ## 資產類別
 
 - [FX](FX/README.md) — 已同步英文 canonical 的 3 篇頁面
+- [固定收益](固定收益/README.md) — 已同步英文 canonical 的 6 篇頁面
 
 其他經審閱的資產類別將依英文 canonical 分批同步。
 
