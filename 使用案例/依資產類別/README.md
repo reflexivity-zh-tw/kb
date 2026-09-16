@@ -10,8 +10,7 @@
 - [固定收益](固定收益/README.md) — 已同步英文 canonical 的 6 篇頁面
 - [總體](總體/README.md) — 已同步英文 canonical 的 7 篇頁面
 - [股票](股票/README.md) — 已同步英文 canonical 的 8 篇頁面
-
-其他經審閱的資產類別將依英文 canonical 分批同步。
+- [多資產](多資產/README.md) — 已同步英文 canonical 的 10 篇頁面
 
 ---
 
