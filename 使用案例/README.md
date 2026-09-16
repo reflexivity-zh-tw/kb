@@ -25,6 +25,7 @@
 - [FX](依資產類別/FX/README.md) — 3 篇
 - [固定收益](依資產類別/固定收益/README.md) — 6 篇
 - [總體](依資產類別/總體/README.md) — 7 篇
+- [股票](依資產類別/股票/README.md) — 8 篇
 - [全部資產類別](依資產類別/README.md)
 
 ## Resource
