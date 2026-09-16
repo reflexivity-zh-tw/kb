@@ -1,6 +1,6 @@
 # Reflexivity 使用案例
 
-可依**角色**或**洞察類型**瀏覽 Reflexivity 的實際案例。點選任一項目即可進入對應的獨立使用案例文章。
+可依**角色**、**洞察類型**或**資產類別**瀏覽 Reflexivity 的實際案例。點選任一項目即可進入對應的獨立使用案例文章。
 
 > 以下案例根據特定日期的平台輸出整理。使用前請與最新市場資料核對，或作為說明性案例展示。
 
@@ -20,9 +20,14 @@
 - [Earnings Catalyst](分類瀏覽/earnings-catalyst.md) — 7 篇
 - [Scenario Insight](分類瀏覽/scenario-insight.md) — 3 篇
 
+## 依資產類別瀏覽
+
+- [FX](依資產類別/FX/README.md) — 3 篇
+- [全部資產類別](依資產類別/README.md)
+
 ## Resource
 
-本集合整理自 **Reflexivity Insights Proof Set — Sales Enablement.docx**（2026-09-07 提供）。每篇獨立文章都保留原始 Live Reflexivity Insight 連結。
+本集合整理自 **Reflexivity Insights Proof Set — Sales Enablement.docx**（2026-09-07 提供），並持續加入由英文 canonical 直接在地化的經審閱研究案例。既有 proof-set 個別文章保留原始 Live Reflexivity Insight 連結。
 
 如需查看原始資料、確認出處或存取來源檔案，請聯絡 **jim@reflexivity.com**。
 
