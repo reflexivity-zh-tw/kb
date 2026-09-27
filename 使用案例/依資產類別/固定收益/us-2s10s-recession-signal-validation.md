@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留一份有明確日期的 Reflexivity 研究輸出及其限制。來源中的一項統計數字看起來需要重新驗證，因此下列結果不應視為已獨立確認的歷史事實。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究問題
 
@@ -79,7 +78,6 @@ publication_mode: faithful-source-preserving
 
 這個例子同時展示自動化假設檢驗的價值與限制：Reflexivity 可以組織歷史測試並揭露誤報，但分析師仍必須對異常統計提出質疑，並在把輸出視為既定證據之前驗證資料定義。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

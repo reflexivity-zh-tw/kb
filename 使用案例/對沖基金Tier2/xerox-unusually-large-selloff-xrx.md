@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Scenario Insight  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)**
+
 ## 相關性
 
 這不是新聞事件，而是一個系統性訊號，提示 Xerox 剛剛經歷了異常大幅拋售。
@@ -45,7 +47,6 @@ PM 可以快速、基於證據了解這種設定歷史上如何演化，並將�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)
 
 ---
 

@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究與當時市場觀察。下列交易與價位皆為歷史研究輸出，不是目前的投資建議。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
 ## 起點
 
@@ -96,7 +95,6 @@ EUR/USD、EUR/CHF、EUR/JPY 空頭都被列為可能表達方式，也包含以�
 
 這個例子展示如何從主權—信用異常出發，延伸出利率、信用、FX、股票、波動率與基差市場的多種交易表達，同時保留明確失效條件，而不是停在市場敘事層次。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

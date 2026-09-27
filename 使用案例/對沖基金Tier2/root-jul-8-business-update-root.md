@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Earnings Catalyst  
 **訊號:** 中性
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)**
+
 ## 相關性
 
 一次指引調整推動股價上漲 19%，PM 需要快速判斷這次上漲是否真的有公開資訊支持。
@@ -45,7 +47,6 @@ PM 會被引導避免追逐未經確認的上漲。平台將其視為需要後�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)
 
 ---
 

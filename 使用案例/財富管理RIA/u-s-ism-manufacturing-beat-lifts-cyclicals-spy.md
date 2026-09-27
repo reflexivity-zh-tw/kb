@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Market Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
 ## 相關性
 
 更強的美國製造業數據正是會觸發客戶當日提問、要求顧問快速解釋的典型由上而下訊號。
@@ -45,7 +47,6 @@ ISM Manufacturing 為 53.3，高於 52.8 的市場共識，新訂單為 56.7；�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)
 
 ---
 

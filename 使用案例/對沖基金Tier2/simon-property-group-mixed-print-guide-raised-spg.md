@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Earnings Catalyst  
 **訊號:** 中性
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)**
+
 ## 相關性
 
 當大型 REIT 的標題數字與營運指標互相矛盾時，Tier 2 PM 必須快速決定應如何調整部位。
@@ -45,7 +47,6 @@ PM 可以圍繞上調的指引與資本回報進行部位判斷：股息提高 4
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)
 
 ---
 

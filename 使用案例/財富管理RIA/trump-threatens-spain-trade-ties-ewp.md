@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Geopolitical Catalyst  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)**
+
 ## 相關性
 
 針對特定國家的貿易威脅會讓客戶與 PM 立即詢問其歐洲曝險是否面臨風險。
@@ -45,7 +47,6 @@ Reflexivity 將言辭與政策分開，把它定義為 headline risk，而非已
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)
 
 ---
 

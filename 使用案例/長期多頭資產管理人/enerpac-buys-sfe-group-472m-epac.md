@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Company Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)**
+
 ## 相關性
 
 這是一項預計在 FY2027 Q1 完成的慢節奏基本面交易，適合有耐心的 buy-and-hold 時間框架。
@@ -45,7 +47,6 @@ Reflexivity 將其描述為資產負債表與可信度事件，而不是短期�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)
 
 ---
 

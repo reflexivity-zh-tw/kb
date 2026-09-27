@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Company Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)**
+
 ## 相關性
 
 Nvidia 與 Apollo、BlackRock、Blackstone、Brookfield 宣布一項 5000 億美元 AI 基礎設施融資倡議，計畫為 Nvidia 運算與 AI 建設形成資本池；股價上漲 1.88%。
@@ -45,7 +47,6 @@ Pod 可以在半導體、電力、資料中心公司中廣泛表達該主題，�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)
 
 ---
 

@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留實際 Reflexivity 研究輸出的結構與限制。重點不是主張每一條 graph 連結都代表直接的獲利敏感度，而是展示如何把總體觀點轉換成可進一步研究的 universe。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究問題
 
@@ -88,7 +87,6 @@ Graph 或 Sankey 的連結寬度**不是**現金流、獲利敏感度或預期�
 
 這個工作流程展示如何把總體政策觀點轉成結構化的傳導管道、產業與具名公司，再把這些候選交給更深入的基本面研究。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

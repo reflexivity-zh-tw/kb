@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Market Catalyst  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)**
+
 ## 相關性
 
 Bab el-Mandeb 的致命襲擊重新引發紅海咽喉風險，推高能源、運費與保險成本，並對依賴原油進口、對貿易敏感的新興市場形成壓力。EEM 當時約為 $65.62（+0.69%），可作為流動性較高的情緒指標。
@@ -45,7 +47,6 @@ Bab el-Mandeb 的致命襲擊重新引發紅海咽喉風險，推高能源、運
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)
 
 ---
 

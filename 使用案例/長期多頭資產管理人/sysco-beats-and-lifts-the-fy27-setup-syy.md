@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Earnings Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)**
+
 ## 相關性
 
 這是一個長期持有判斷更多取決於資本配置與利潤率執行，而不是標題式業績優於預期的 quality compounder 案例。
@@ -45,7 +47,6 @@ PM 可以直接看到資本配置狀態，包括 $2.1B 自由現金流、2.7x �
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)
 
 ---
 

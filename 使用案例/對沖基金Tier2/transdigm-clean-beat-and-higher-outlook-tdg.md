@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Earnings Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)**
+
 ## 相關性
 
 大型公司 beat-and-raise 會影響整個投資組合，Tier 2 PM 需要快速判斷討論焦點是否從需求轉向持續性。
@@ -45,7 +47,6 @@ PM 可在業績發布後股價上漲 7.6% 的背景下，依上調幅度調整�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)
 
 ---
 

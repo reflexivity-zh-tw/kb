@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Earnings Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
+
 ## 相關性
 
 Cardinal Health 的 EPS 為 $2.91，比市場共識高 20.25%，FY2027 指引也高於市場預期；股價自 8 月 7 日收盤以來上漲 3.16%。
@@ -45,7 +47,6 @@ Cardinal Health 的 EPS 為 $2.91，比市場共識高 20.25%，FY2027 指引也
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)
 
 ---
 

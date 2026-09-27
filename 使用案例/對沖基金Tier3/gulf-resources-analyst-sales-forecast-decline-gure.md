@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Scenario Insight  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
 ## 相關性
 
 這是單人 PM 必須快速判斷部位規模的典型低覆蓋微型股訊號。隨著分析師銷售預測下調，GURE 交易在約 $2.85，當日下跌 6.86%。
@@ -45,7 +47,6 @@ PM 可據此判斷是在預測下調時逆勢操作或放空，同時追蹤溴�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)
 
 ---
 

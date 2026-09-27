@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留原始研究的分析邏輯與當時市場觀察，並納入經日文審閱版本確認的推理銜接。數據與市場環境皆為原始研究時點的歷史快照，不是目前的投資建議。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
 ## 研究目的
 
@@ -134,7 +133,6 @@ publication_mode: faithful-source-preserving
 
 這個例子展示的是可重複使用的研究流程，而不只是最後的方向判斷：起始問題、數據層次、支持與反對證據、明確假設、情境框架，以及什麼條件會改變觀點。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

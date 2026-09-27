@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Scenario Insight  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
+
 ## 相關性
 
 這是典型的低覆蓋小型股情境：單人創辦人 PM 很難自行量化一次大幅拋售之後意味著什麼。
@@ -45,7 +47,6 @@ PM 可在幾分鐘內完成投資邏輯檢查。歷史分布明顯偏負面：6 
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)
 
 ---
 

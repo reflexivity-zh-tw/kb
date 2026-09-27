@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Market Catalyst  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
+
 ## 相關性
 
 宏觀需求下行是沒有研究團隊的顧問仍需在當天向客戶解釋的典型由上而下訊號。
@@ -45,7 +47,6 @@ Reflexivity 將其解讀為住房相關週期股——住宅建商、供應商�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)
 
 ---
 

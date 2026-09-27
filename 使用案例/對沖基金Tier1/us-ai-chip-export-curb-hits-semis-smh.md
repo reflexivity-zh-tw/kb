@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Market Catalyst  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
+
 ## 相關性
 
 Pod PM 需要快速判斷一個政策標題究竟意味著整個半導體板塊去評級，還是單一公司事件。
@@ -45,7 +47,6 @@ PM 可立即看出這不是個別公司現象，並決定在哪裡集中或避�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)
 
 ---
 

@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Company Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
+
 ## 相關性
 
 這類小型 AI 補強式收購正是單人創辦人 PM 往往需要手工拼接資訊的低覆蓋事件。
@@ -45,7 +47,6 @@ PM 可在一個頁面看到交易細節：目標公司 Arpalus、貨架智慧應
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)
 
 ---
 

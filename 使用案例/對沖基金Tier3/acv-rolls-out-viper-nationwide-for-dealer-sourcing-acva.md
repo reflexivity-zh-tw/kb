@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Company Catalyst  
 **訊號:** 中性
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
 ## 相關性
 
 這類低覆蓋小型股產品催化需要單人 PM 快速判斷：在全國發布當天，股價下跌 14.75% 至 $6.36。
@@ -45,7 +47,6 @@ PM 可在幾分鐘內完成投資邏輯檢查，並決定是逆勢看待拋售�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---
 

@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 這份來源是更正後的追蹤研究，而不是完整的原始研究包。本頁保留實際提供的更正篩選表與決策邏輯，不重建缺失的早期輸出。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
 ## 這份來源更正了什麼
 
@@ -73,7 +72,6 @@ publication_mode: faithful-source-preserving
 
 這份更正本身就是一個有用案例：當畫面標籤與經濟邏輯不一致時，研究流程必須能修正自己的輸出。可重複的模式是：歷史位置 → carry / rolldown → 綜合交易分類 → 當各組成因素不支持 headline 訊號時進行更正。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

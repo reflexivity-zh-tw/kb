@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Market Catalyst  
 **訊號:** 看空
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)**
+
 ## 相關性
 
 黃金拋售會引發大量當天的客戶問題，即使顧問沒有研究團隊也必須快速回答。
@@ -45,7 +47,6 @@ Reflexivity 用淺白方式呈現完整傳導鏈：臨時協議降低避險需�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)
 
 ---
 

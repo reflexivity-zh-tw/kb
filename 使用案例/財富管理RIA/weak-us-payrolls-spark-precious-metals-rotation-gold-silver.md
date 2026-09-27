@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Market Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)**
+
 ## 相關性
 
 疲弱的就業數據是客戶當天就會詢問的典型由上而下宏觀事件，並會重新設定利率與美元背景。
@@ -45,7 +47,6 @@ Reflexivity 展示完整傳導鏈：7 月就業人數減少 2.3 萬，10 年期�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)
 
 ---
 

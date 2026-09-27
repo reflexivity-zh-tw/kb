@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **洞察類型:** Company Catalyst  
 **訊號:** 看多
 
+**[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
+
 ## 相關性
 
 提高股息是一個低雜訊訊號，適合重視長期資本回報而非單日波動的 quality-focused buy-and-hold mandate。
@@ -45,7 +47,6 @@ PM 可快速了解資本配置姿態：股息從 $0.71 提高至 $0.74，經董�
 
 ## Resource
 
-[開啟 Live Reflexivity Insight](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---
 

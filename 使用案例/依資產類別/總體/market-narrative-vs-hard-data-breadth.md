@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留一份有明確日期的 Reflexivity 研究輸出。目的在展示如何用多組獨立證據檢驗市場敘事，而不是只因 headline 很強就接受它。
 
-
-**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+**[在 Reflexivity 中開啟這個研究範例 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
 
 ## 研究問題
 
@@ -97,7 +96,6 @@ headline 看起來很強，但更廣泛的勞動市場證據沒有同樣一致�
 
 這個例子展示如何跨獨立證據集合衡量敘事廣度，並找出 headline 環境看起來強勢、但市場與經濟證據沒有同樣廣泛確認的情況。
 
-[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
 ---
 
