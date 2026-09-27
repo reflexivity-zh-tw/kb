@@ -13,6 +13,9 @@
 - [圍繞美國零售業財報週建立研究工作流程](us-retail-earnings-calendar-workflow.md) — `RX-USECASE-0056`
 - [使用 Company Catalyst 追蹤 NVIDIA 相關新聞的市場影響](company-catalyst-nvidia-example.md) — `RX-USECASE-0057`
 
+- [比較 Magnificent Seven 的財務實力與利率韌性](magnificent-seven-financial-comparison.md)
+- [從上漲的美國股票尋找相關日本公司](rising-us-stocks-related-japanese-companies.md)
+
 ## 對沖基金 proof-set 案例
 
 - [Nvidia：5000 億美元 AI 基礎設施融資計畫 (NVDA)](nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) — `RX-USECASE-0019`

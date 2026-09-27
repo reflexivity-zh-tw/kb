@@ -11,6 +11,9 @@
 - [從完整殖利率曲線解讀美國 30 年期收益率上升](us-30y-yield-curve-bear-steepening.md) — `RX-USECASE-0053`
 - [比較 EUR/USD 與 EUR–USD Swap 利差的變動](eurusd-vs-eur-usd-swap-spread.md) — `RX-USECASE-0062`
 
+- [比較美國 10 年期公債殖利率 5% 門檻與過去 20 年](us-10y-yield-5-percent-threshold.md)
+- [從發行人、資金用途、供需與殖利率分析美國債券發行市場](us-bond-issuance-market-analysis.md)
+
 上述 6 篇頁面均直接依據英文 canonical 文件在地化，並保留 stable ID、數字、日期、限制條件、來源區分與原有不確定性。
 
 ---
