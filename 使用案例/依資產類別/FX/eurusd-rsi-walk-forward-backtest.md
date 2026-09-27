@@ -94,6 +94,8 @@ publication_mode: faithful-source-preserving
 
 這個例子保留了一套可重複使用的研究流程：問題、測試設計、參數掃描、樣本外挑戰、限制，以及對哪些地方沒有維持住的解讀。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
+
 ---
 
 [← FX 使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

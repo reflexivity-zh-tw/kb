@@ -85,6 +85,8 @@ Graph 或 Sankey 的連結寬度**不是**現金流、獲利敏感度或預期�
 
 這個工作流程展示如何把總體政策觀點轉成結構化的傳導管道、產業與具名公司，再把這些候選交給更深入的基本面研究。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

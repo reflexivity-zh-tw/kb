@@ -131,6 +131,8 @@ publication_mode: faithful-source-preserving
 
 這個例子展示的是可重複使用的研究流程，而不只是最後的方向判斷：起始問題、數據層次、支持與反對證據、明確假設、情境框架，以及什麼條件會改變觀點。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← FX 使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

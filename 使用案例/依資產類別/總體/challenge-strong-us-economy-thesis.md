@@ -111,6 +111,8 @@ publication_mode: faithful-source-preserving
 
 這個例子展示如何從需求、就業、調查、信用與利率多個面向對總體論點進行壓力測試，並保留彼此矛盾的證據，而不是把所有訊號磨平為單一敘事。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)
+
 ---
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

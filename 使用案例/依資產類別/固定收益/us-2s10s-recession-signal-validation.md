@@ -76,6 +76,8 @@ publication_mode: faithful-source-preserving
 
 這個例子同時展示自動化假設檢驗的價值與限制：Reflexivity 可以組織歷史測試並揭露誤報，但分析師仍必須對異常統計提出質疑，並在把輸出視為既定證據之前驗證資料定義。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

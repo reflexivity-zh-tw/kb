@@ -66,6 +66,8 @@ publication_mode: faithful-source-preserving
 
 這項研究展示如何把跨資產直覺轉成可衡量的檢驗、把最新觀察放入歷史背景，並判斷表面關係是否強到值得進一步使用。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

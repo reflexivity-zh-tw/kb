@@ -94,6 +94,8 @@ headline 看起來很強，但更廣泛的勞動市場證據沒有同樣一致�
 
 這個例子展示如何跨獨立證據集合衡量敘事廣度，並找出 headline 環境看起來強勢、但市場與經濟證據沒有同樣廣泛確認的情況。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
+
 ---
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

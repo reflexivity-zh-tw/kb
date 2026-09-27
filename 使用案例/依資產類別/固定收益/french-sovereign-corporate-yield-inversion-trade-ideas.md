@@ -93,6 +93,8 @@ EUR/USD、EUR/CHF、EUR/JPY 空頭都被列為可能表達方式，也包含以�
 
 這個例子展示如何從主權—信用異常出發，延伸出利率、信用、FX、股票、波動率與基差市場的多種交易表達，同時保留明確失效條件，而不是停在市場敘事層次。
 
+[在 Reflexivity 中開啟](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
