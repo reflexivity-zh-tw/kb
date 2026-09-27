@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/gulf-resources-analyst-sales-forecast-decline-gure.md
+canonical_path: usecases/byasset/equities/gulf-resources-analyst-sales-forecast-decline-gure.md
 status: draft
 translation_status: review-needed
 -->
 
 # Gulf Resources：分析師下調銷售預測 (GURE) — 看空訊號
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可據此判斷是在預測下調時逆勢操作或放空，同時追蹤溴�
 
 ---
 
-[← 對沖基金 Tier 3](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
