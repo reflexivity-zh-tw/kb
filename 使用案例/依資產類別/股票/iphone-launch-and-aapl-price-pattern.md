@@ -3,7 +3,6 @@ id: RX-USECASE-0046
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-11
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 檢驗 iPhone 發表前後的 AAPL 股價模式
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-11  
 **主要資產：** 股票  
-**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。已移除客戶名稱、收件人、電子郵件地址、簽名與私有 URL，同時保留原始問題、歷史比較、反證與下一步邏輯。產品細節與市場數字均為原資料日期的快照。
+> 本案例保留原始問題、歷史比較、反證與下一步邏輯。產品細節與市場數字均為原資料日期的快照。
 
 > 分析過去五年新 iPhone 發表與 AAPL 股價之間的關係，也分析最新 Duo 發表後的市場反應。
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先把發表當日與之後數週或一季的表現分開，建立基準後，再判斷最新事件是否真的異常。
 
-## 原資料中的歷史模式
+## 歷史模式
 
 | 年份 | 發表事件 | 事件前 | 即時反應 | 後續數週 |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ publication_mode: faithful-source-preserving
 
 同時，2022 年深受更廣泛的總體環境影響，提醒我們不能把每一次發表後的股價變化都歸因於產品事件本身。
 
-## 為什麼最新反應在原資料中看起來不同
+## 為什麼最新反應不同
 
 原資料指出，發表當日股價幾乎持平，但隔日 AAPL 約上漲 **2.4%**。由於這比典型的即時模式更正面，研究重點不是直接把事件標記為成功，而是問「這次有什麼不同？」
 
@@ -73,7 +73,7 @@ publication_mode: faithful-source-preserving
 
 因此，股價對定價策略的正面反應，並不自動等於獲利結果也會正面。
 
-## 原資料結論
+## 結論
 
 原資料認為，最新事件部分符合歷史模式——發表當日仍然平淡——但隔日買盤力道明顯較強，這一點比較不尋常。
 
@@ -89,11 +89,11 @@ publication_mode: faithful-source-preserving
 4. 用供應、毛利與公司特有風險檢驗正面解讀；
 5. 等實際營運數據到來後更新觀點。
 
-## 原資料視覺資產狀態
+## 視覺資料
 
 經審閱的日文公開頁面含有一張經驗證的 QUICK 原始視覺。該圖片尚未以位元組一致方式同步到英文與下游倉庫，因此本頁刻意不發布損壞連結或替代圖片。
 
-## 原資料依據
+## 資料來源
 
 - Entity：AAPL:NASD
 - Time series：AAPL:NASD.price
@@ -104,5 +104,10 @@ publication_mode: faithful-source-preserving
 這個例子把反覆出現的公司事件當作歷史控制組，先比較本次反應與基準，再用相互競爭的解釋檢驗差異，最後指出下一次更新所需的營運證據。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

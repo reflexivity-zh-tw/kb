@@ -3,7 +3,6 @@ id: RX-USECASE-0054
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-20
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 追蹤美國長期利率上升如何傳導到日本市場
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-20  
 **主要資產類別：** 固定收益、股票、FX、總體、多資產
 
-> 本頁保留 QUICK 提供的使用案例，同時移除客戶、收件人、簽名與私有連結資訊。市場水準與解讀均為原資料日期的快照。
+> 本案例同時移除客戶、收件人、簽名與私有連結資訊。市場水準與解讀均為原資料日期的快照。
 
-## 原始問題
+## 問題
 
 美國長期利率正在上升。這可能如何影響日本貨幣政策與日本經濟？對銀行、房地產、出口商等主題有什麼含意？
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 重點是逐一測試每個環節，而不是從「美國殖利率較高」直接跳到產業結論。
 
-## 原資料快照
+## 當時的市場快照
 
 | 指標 | 最新 | 一年前 | 變化 |
 | --- | ---: | ---: | ---: |
@@ -64,7 +64,7 @@ publication_mode: faithful-source-preserving
 2. **日本長期殖利率上升** — 全球 duration 壓力與國內 normalization 可能互相強化。
 3. **雙向經濟效果** — 出口商與 inbound-sensitive businesses 可能受惠於日圓走弱，但家庭與內需面臨較高進口成本。
 
-## 原資料快照中的產業含意
+## 當時的產業含意
 
 | 主題 | 1 年報酬 | 1 個月報酬 | 原資料中的利率敏感度 |
 | --- | ---: | ---: | --- |
@@ -105,5 +105,10 @@ publication_mode: faithful-source-preserving
 這是一個可重複的跨資產流程：把海外利率衝擊沿著利差、匯率、貨幣政策反應與國內產業表現逐步追蹤。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

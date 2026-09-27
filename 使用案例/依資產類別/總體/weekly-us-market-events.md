@@ -3,7 +3,6 @@ id: RX-USECASE-0042
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-08
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 依可能市場影響排序本週美國重要事件
 
-**作者：** QUICK Inc.  
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-08  
 **主要資產：** 總體、股票、固定收益、FX  
-**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、Hedge Fund Tier 2
+**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、對沖基金
 
 > 本頁根據 QUICK Inc. 提供的使用案例整理。數字、共識預期與事件時間皆為來源日期時點的快照。這個案例的價值在於**事件優先排序工作流程**，而不是把歷史日曆當成目前的事件表。
 
@@ -68,7 +68,7 @@ publication_mode: faithful-source-preserving
 - **能源：** EIA 原油庫存、EIA 短期展望、OPEC 與 IEA 報告、天然氣庫存。
 - **部位 / 供給：** 週末前的 CFTC 投機部位與 Baker Hughes 鑽機數。
 
-## 原資料摘要
+## 摘要
 
 原資料的優先層級把**8 月 CPI**放在第一，其次是 **PPI / 初領失業救濟**與**密西根調查**。核心邏輯是：通膨敏感數據最容易改變 Fed 預期，因此可能同時提高股票、利率與 FX 波動，而較低層級的事件則更集中影響特定市場或產業。
 
@@ -90,5 +90,10 @@ publication_mode: faithful-source-preserving
 這個例子把週度總體日曆轉化成有優先順序的監控計畫：先看最可能改變政策的事件，其次是確認或反駁的數據，最後才是市場特定的供給與產業輸入。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

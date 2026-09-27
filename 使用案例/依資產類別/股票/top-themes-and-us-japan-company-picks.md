@@ -3,7 +3,6 @@ id: RX-USECASE-0047
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2025-12-26
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 將強勢主題轉成美國與日本公司研究候選
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2025-12-26  
 **主要資產：** 股票  
-**適用使用者：** Long-only 資產管理人、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** Long-only 資產管理人、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。已移除客戶名稱、收件人、電子郵件地址、簽名與私有 URL，同時保留原始問題、候選名單與篩選邏輯。這份名單是建立**研究 universe 的起點，不是投資推薦名單**。
+> 本案例保留原始問題、候選名單與篩選邏輯。這份名單是建立**研究 universe 的起點，不是投資推薦名單**。
 
 ## 何時適合使用這個工作流程
 
@@ -39,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 > 對 gene editing、satellite technology、space exploration、copper mining、gold production 這些主題，每個類別各列出三個相關的美國與日本組織。
 
-## 原資料中的候選 universe
+## 候選 universe
 
 ### Gene editing
 
@@ -120,7 +120,7 @@ publication_mode: faithful-source-preserving
 
 這樣可以避免把「強勢主題」直接轉換成「買進名單」。主題先擴大搜尋空間，再由投資限制與基本面條件把候選範圍縮小。
 
-## 原資料視覺資產狀態
+## 視覺資料
 
 經審閱的日文公開頁面包含一張經驗證的 QUICK 原始畫面。該圖片尚未以位元組一致方式同步到英文與下游倉庫，因此本頁不發布損壞連結，也不使用替代圖片。
 
@@ -129,5 +129,10 @@ publication_mode: faithful-source-preserving
 這個工作流程從市場領導主題出發，建立跨市場的研究 universe。它適合用來發現較不直觀的公司候選，再進一步套用可投資性、基本面與評價條件。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

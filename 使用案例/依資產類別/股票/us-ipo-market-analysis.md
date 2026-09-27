@@ -3,7 +3,6 @@ id: RX-USECASE-0048
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-10
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 從已完成交易與後續供給管線分析美國 IPO 市場
 
-**作者：** QUICK Inc.  
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-10  
 **主要資產：** 股票、總體  
-**適用使用者：** Long-only 資產管理人、Hedge Fund Tier 1、Hedge Fund Tier 2、Hedge Fund Tier 3
+**適用使用者：** Long-only 資產管理人、對沖基金
 
-> 本頁保留 QUICK 於 2026 年 9 月 10 日的研究快照。以下交易規模、IPO 後報酬與未來 IPO 候選均為原資料日期的觀察或報導預期，不是目前確認資訊。客戶資訊與私有 URL 已移除。
+> 本案例保留 2026 年 9 月 10 日的研究快照。以下交易規模、IPO 後報酬與未來 IPO 候選均為原資料日期的觀察或報導預期，不是目前確認資訊。
 
 > 列出今年已完成的主要美國 IPO，分析其市場影響；並分析年底前被報導或預期可能進行的大型 IPO。
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先看已完成交易的規模、首日反應與後續報酬；確認實際投資需求後，再轉向未來候選，估算如果數個大型交易在短期內競爭資金，會吸收多少市場資本與注意力。
 
-## 原資料中的已完成交易
+## 已完成交易
 
 原資料把 2026 年描述為美國 IPO 總募資額歷史上非常大的年份，但同時強調總額高度受到單一超大型交易影響，而且上市後表現並不一致。
 
@@ -49,14 +49,14 @@ publication_mode: faithful-source-preserving
 | Doncasters | DPC | 2026-06-24 | 919 | $33 | +33.3% | - |
 | Parabilis Medicines | PBLS | 2026-06-09 | 670 | $20 | +66.8% | - |
 
-### 原資料如何解讀已完成交易
+### 如何解讀已完成交易
 
 - **大額募資不等於上市後普遍強勢。** 原資料以 SpaceX 為最明顯例子：發行規模極大，相對發行價仍為正報酬，但從最初交易價格看表現較弱。
 - **投資人挑選仍然重要。** 原資料把 Quantinuum 的較弱表現，與 Bending Spoons、以及美國上市的 SK hynix 曝險作比較。
 - **發行集中在大型主題。** 太空、AI、半導體與相關成長領域吸引了不成比例的資金與注意力。
 - 原資料也指出，SPAC 相關發行數量相對傳統營運公司 IPO 偏高。
 
-## 原資料中的後續供給管線
+## 後續供給管線
 
 下一步不是假設所有被報導的候選都一定會上市，而是先繪出潛在供給，並思考若多個大型交易在短期競爭投資人資金會發生什麼事。
 
@@ -100,11 +100,11 @@ publication_mode: faithful-source-preserving
 - 原資料指出 SK hynix 的美國上市性質不同於一般新公司 IPO。
 - 整體發行金額可能被異常大型交易扭曲。
 
-## 原資料視覺資產狀態
+## 視覺資料
 
 經審閱的日文公開頁面包含一張經驗證的 QUICK 原始視覺。該圖片尚未以位元組一致方式同步到英文與下游倉庫，因此本頁不發布損壞連結，也不使用替代圖片。
 
-## 原資料依據
+## 資料來源
 
 QUICK 研究結合上市市場 time series、IPO 報導、prediction-market 資訊與 IPO 統計。內部 Research URL 不對外發布。
 
@@ -114,4 +114,9 @@ QUICK 研究結合上市市場 time series、IPO 報導、prediction-market 資�
 
 ---
 
-[← 股票使用案例](README.md) · [總體使用案例](../總體/README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
+
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

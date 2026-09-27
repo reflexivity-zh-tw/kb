@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # 檢驗市場敘事是否獲得廣泛硬數據支持
 
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產：** 總體、股票、固定收益、跨資產  
 **適用使用者：** CIO、Macro PM、多資產 PM、策略師  
@@ -72,7 +74,7 @@ headline 看起來很強，但更廣泛的勞動市場證據沒有同樣一致�
 | 製造 / 成長 | 持續擴張 | ISM New Orders 56.0 → 53.7；零售銷售較弱 | 放慢 |
 | 年底成長 regime | 軟著陸 | 軟著陸 55%；過熱 42.5% | 觀點仍分歧 |
 
-## 原資料中的其他訊號
+## 其他訊號
 
 - 在 30 則總體 headline 中，強調升息或通膨風險的新聞，約為強勁數據 headline 的 **3.5 倍**。
 - ISM New Orders 從 **56.0 降至 53.7**。

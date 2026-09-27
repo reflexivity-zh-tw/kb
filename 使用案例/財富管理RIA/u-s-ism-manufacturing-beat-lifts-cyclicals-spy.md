@@ -13,23 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/wealth-management-ria/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488
 -->
 
-# 美國 ISM 製造業數據優於預期，週期股走強 (SPY) — 看多
+# 美國 ISM 製造業數據優於預期，週期股走強 (SPY)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+[← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
-> **審閱稿** — 以下為 2026 年 8 月 3 日時點的平台輸出。使用前請與最新市場資料核對，或作為說明性案例展示。
+**角色：** 財富管理 / RIA<br>
+**洞察類型：** Market Catalyst<br>
+**訊號：** 看多<br>
+**日期：** 2026-08-03
 
-**角色:** 財富管理 / RIA  
-**洞察類型:** Market Catalyst  
-**訊號:** 看多
+> 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
 
@@ -45,11 +43,13 @@ ISM Manufacturing 為 53.3，高於 52.8 的市場共識，新訂單為 56.7；�
 
 顧問可在幾分鐘內向客戶解釋為什麼週期股可能領先防禦股，並提醒若利率再次上升，久期敏感股票的領先地位可能受限。
 
-## Resource
+## 資料
 
+- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)
 
 ---
 
-[← 財富管理 / RIA](README.md) · [← 全部使用案例](../README.md)
+[← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。

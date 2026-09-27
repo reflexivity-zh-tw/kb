@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241
 -->
 
 # Fortrea：異常大幅拋售 (FTRE) — 看空訊號
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**角色：** 對沖基金<br>
+**洞察類型：** Scenario Insight<br>
+**訊號：** 看空<br>
+**日期：** 2026-08-04
 
-> **審閱稿** — 以下為 2026 年 8 月 4 日時點的平台輸出。使用前請與最新市場資料核對，或作為說明性案例展示。
-
-**角色:** 對沖基金 Tier 3（小型 / 新興）  
-**洞察類型:** Scenario Insight  
-**訊號:** 看空
+> 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
 
@@ -47,11 +43,13 @@ Reflexivity 根據先前 14 次類似情況量化該設定。類似異常拋售�
 
 PM 可在幾分鐘內完成投資邏輯檢查。歷史分布明顯偏負面：6 個月 P20 為 -63.22%，P80 為 -3.50%。這可幫助判斷是逆勢操作還是等待築底。
 
-## Resource
+## 資料
 
+- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)
 
 ---
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。

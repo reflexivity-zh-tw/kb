@@ -3,7 +3,6 @@ id: RX-USECASE-0058
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-02-12
 status: published
@@ -15,11 +14,12 @@ publication_mode: faithful-source-preserving
 
 # 使用 Alfred 研究房市、貴金屬、股票與信用風險
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-02-12  
 **主要資產類別：** 股票、固定收益、商品、crypto、總體、多資產
 
-> 本頁保留 QUICK 提供的範例，同時移除客戶、收件人、簽名與私有 Conversation URL。這些例子展示可在 Alfred 中調查的問題廣度；以下數值結果均為原資料日期的輸出。
+> 本案例同時移除客戶、收件人、簽名與私有 Conversation URL。這些例子展示可在 Alfred 中調查的問題廣度；以下數值結果均為原資料日期的輸出。
 
 ## 1. 美國房市與股票市場傳導
 
@@ -79,5 +79,10 @@ publication_mode: faithful-source-preserving
 共同模式是先從具體問題出發，找出傳導機制，再選擇下一個需要檢驗的市場或實體。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

@@ -3,7 +3,6 @@ id: RX-USECASE-0039
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-06-18
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 用長篇指令拆解複雜研究任務
 
-**作者：** QUICK Inc.  
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-06-18  
 **主要資產：** 總體、股票、多資產  
-**適用使用者：** Long-only 資產管理人、Hedge Fund Tier 1、Hedge Fund Tier 2
+**適用使用者：** Long-only 資產管理人、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。已移除客戶名稱、收件人、電子郵件地址、簽名與私有 Conversation URL，同時盡可能保留原始 prompt 範例及其意圖。
+> 本案例保留原始 prompt 範例及其意圖。
 
 ## 何時適合使用這種方式
 
@@ -94,5 +94,10 @@ publication_mode: faithful-source-preserving
 這個工作流程展示如何把研究流程直接設計進 prompt 裡，使複雜、多步驟分析仍然連結到最後的決策問題，而不是變成互不相干的事實集合。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # 將 EUR/USD 投資觀點轉化為系統化檢查清單
 
+[← FX 使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產：** FX（EUR/USD）  
 **適用使用者：** FX PM、Macro PM、多資產投資人  

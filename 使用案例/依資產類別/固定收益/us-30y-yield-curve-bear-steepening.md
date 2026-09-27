@@ -3,7 +3,6 @@ id: RX-USECASE-0053
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-19
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 從完整殖利率曲線解讀美國 30 年期收益率上升
 
-**作者：** QUICK Inc.  
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-19  
 **主要資產：** 固定收益、總體  
-**適用使用者：** Long-only 資產管理人、Hedge Fund Tier 1
+**適用使用者：** Long-only 資產管理人、對沖基金
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。已移除客戶名稱、收件人、電子郵件地址、簽名與私有 URL，同時盡可能保留原始問題、分析流程、證據與結論。數據與市場環境皆為提供日期時點的快照。
+> 本案例保留原始問題、分析流程、證據與結論。數據與市場環境皆為提供日期時點的快照。
 
 > 美國 30 年期公債收益率正在上升。整體殖利率曲線正在如何改變？
 
@@ -115,5 +115,10 @@ publication_mode: faithful-source-preserving
 這個案例展示如何把單一期限的 headline 變動擴展為完整曲線分析、區分測量窗口，再用歷史政策 regime 判斷什麼時候應該更關注財政、供給或 term premium 因素。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

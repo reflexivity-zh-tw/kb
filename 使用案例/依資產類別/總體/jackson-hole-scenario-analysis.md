@@ -3,7 +3,6 @@ id: RX-USECASE-0060
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-21
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 建立 Jackson Hole 講話情境與可能市場反應
 
-**作者：** QUICK Inc.  
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-21  
 **主要資產：** 總體、固定收益、股票、FX  
-**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、Hedge Fund Tier 1
+**適用使用者：** 財富管理 / RIA、Long-only 資產管理人、對沖基金
 
 > 本頁保留的是 **2026 年 8 月 27–29 日 Jackson Hole symposium 舉行前**所提供的情境分析。它應被視為事件前準備的案例，而不是目前預測，也不是事後依結果重建的分析。
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先確認主要講者及下一次 FOMC 會議的時間距離，再檢視通膨與就業、市場定價與投資人部位，建立偏鴿／中性／偏鷹情境，最後利用過去 Jackson Hole 的市場反應來校準合理的事件風險幅度。
 
-## 為什麼主席講話在原資料中很重要
+## 為什麼主席講話很重要
 
 原資料聚焦 Federal Reserve Chairman Kevin Warsh 在 8 月 28 日的 keynote。該 symposium 於 8 月 27–29 日舉行，主題為 **Financial Innovation: Implications for Payments and Policy**。
 
@@ -96,7 +96,7 @@ publication_mode: faithful-source-preserving
 
 這些比較的用途是建立事件風險的數量級，而不是主張歷史反應會機械式重演。
 
-## 原資料日期的市場背景
+## 當時的市場背景
 
 截至原資料中的 8 月 20 日：
 
@@ -124,5 +124,10 @@ publication_mode: faithful-source-preserving
 這個例子展示如何在不把工作簡化成「猜講話內容」的前提下準備政策事件：先確認事件為什麼重要、定義替代情境、衡量市場已定價內容、校準反應幅度，再把結果連到下一次政策決策。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

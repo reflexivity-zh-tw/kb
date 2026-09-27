@@ -13,6 +13,8 @@ publication_mode: faithful-source-preserving
 
 # 比較 EUR/USD 與 EUR–USD Swap 利差的變動
 
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產：** 固定收益、利率、FX、多資產
 
@@ -42,4 +44,4 @@ publication_mode: faithful-source-preserving
 
 ---
 
-[← 固定收益使用案例](README.md) · [FX 使用案例](../FX/README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

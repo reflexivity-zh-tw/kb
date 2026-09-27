@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca
 -->
 
-# 美國 AI 晶片出口限制衝擊半導體 (SMH) — 看空
+# 美國 AI 晶片出口限制衝擊半導體 (SMH)
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-<div align="right">
-作者: Reflexivity GTM Team<br>
-初稿: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**角色：** 對沖基金<br>
+**洞察類型：** Market Catalyst<br>
+**訊號：** 看空<br>
+**日期：** 2026-08-10
 
-> **審閱稿** — 以下為 2026 年 8 月 10 日時點的平台輸出。使用前請與最新市場資料核對，或作為說明性案例展示。
-
-**角色:** 對沖基金 Tier 1（大型基金 Pod Shop）  
-**洞察類型:** Market Catalyst  
-**訊號:** 看空
+> 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
 
 **[在 Reflexivity 中開啟這個研究範例 →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
 
@@ -47,11 +43,13 @@ Reflexivity 將其框定為重新定價 AI 晶片風險溢價的政策衝擊。�
 
 PM 可立即看出這不是個別公司現象，並決定在哪裡集中或避險；Nvidia 可作為下一代加速器需求最直接的映射標的。
 
-## Resource
+## 資料
 
+- **來源資料：** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight：** [在 Reflexivity 中開啟該洞察](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)
 
 ---
 
-[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
+[← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。

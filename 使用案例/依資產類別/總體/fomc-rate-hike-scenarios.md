@@ -3,7 +3,6 @@ id: RX-USECASE-0041
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-15
 status: published
@@ -16,10 +15,11 @@ publication_mode: faithful-source-preserving
 
 # 在 FOMC 會議前建立升息情境
 
-**作者：** QUICK Inc.  
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-15  
 **主要資產：** 總體、固定收益、FX、多資產  
-**適用使用者：** Long-only 資產管理人、Hedge Fund Tier 1、財富管理 / RIA
+**適用使用者：** Long-only 資產管理人、對沖基金、財富管理 / RIA
 
 > 本頁保留 QUICK Inc. 於 **2026-09-15** 提供的會議前情境分析，**不是目前的政策預測**。原資料針對 2026-09-15 至 09-16 的 FOMC 會議進行情境整理；下列機率、總體數據與政策水準皆為來源日期時點的快照。
 
@@ -35,7 +35,7 @@ publication_mode: faithful-source-preserving
 
 先檢查通膨、油價、勞動市場與目前政策利率，再問市場已經反映多少，最後建立基準、維持與偏鴿替代情境，以及各情境成立需要哪些條件。
 
-## 原資料日期時點的總體快照
+## 當時的總體快照
 
 | 指標 | 原資料數值 | 原資料日期 | 原資料中的政策解讀 |
 |---|---:|---|---|
@@ -47,7 +47,7 @@ publication_mode: faithful-source-preserving
 
 原資料把主席描述為重視通膨控制，並較不依賴大量 forward guidance。研究並未只把這種人物描述當成預測，而是進一步檢查當時數據與市場定價是否支持這個方向。
 
-## 原資料中的情境地圖
+## 情境地圖
 
 | 情境 | 原資料市場機率 | 政策行動 | 原資料假設的溝通方式 |
 |---|---:|---|---|
@@ -82,5 +82,10 @@ publication_mode: faithful-source-preserving
 這個例子展示如何圍繞事件風險建立研究框架：先確認總體約束、已被市場反映的內容、替代政策路徑，以及什麼樣的溝通會驗證或推翻各個情境。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

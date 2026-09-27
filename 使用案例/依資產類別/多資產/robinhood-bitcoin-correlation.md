@@ -3,7 +3,6 @@ id: RX-USECASE-0050
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-24
 status: published
@@ -15,13 +14,14 @@ publication_mode: faithful-source-preserving
 
 # 檢驗 Robinhood 與 Bitcoin 的價格關係
 
-**作者：** QUICK Corporation  
+[← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-08-24  
 **主要資產類別：** 股票、crypto、多資產
 
-> 本頁保留 QUICK 提供的使用案例，同時移除客戶、收件人、簽名與私有連結資訊。數字與市場觀察均為原資料日期的快照。
+> 本案例同時移除客戶、收件人、簽名與私有連結資訊。數字與市場觀察均為原資料日期的快照。
 
-## 原始問題
+## 問題
 
 > 分析 @HOOD 與 Bitcoin 價格的相關性。
 
@@ -40,7 +40,7 @@ publication_mode: faithful-source-preserving
 
 也就是把**視覺共振 → 量化相關 → 例外 → 經濟解讀**分開。
 
-## 原資料快照：2025 年 8 月至 2026 年 8 月
+## 當時的市場快照：2025 年 8 月至 2026 年 8 月
 
 | Episode | 時間 | HOOD | Bitcoin | 方向 |
 | --- | --- | --- | --- | --- |
@@ -98,5 +98,10 @@ QUICK 原研究把這段期間的關係描述為明顯正相關，估算價格�
 這個工作流程從表面上的跨資產共振出發，進一步檢驗以報酬計算的相關性，並主動尋找會破壞關係的期間。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)

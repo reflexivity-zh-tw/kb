@@ -12,6 +12,8 @@ source_text_status: canonicalized_from_reviewed_ja_rendering
 
 # 把當日 newsflow 轉成五個值得研究的投資構想
 
+[← 多資產使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產類別：** 多資產、總體、股票、固定收益
 

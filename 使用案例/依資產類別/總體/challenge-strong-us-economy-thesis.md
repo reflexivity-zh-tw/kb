@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # 從反證角度挑戰「美國經濟強勁」的投資論點
 
+[← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **作者：** Reflexivity Research  
 **主要資產：** 總體、跨資產  
 **適用使用者：** CIO、Macro PM、多資產 PM、策略師  
@@ -85,7 +87,7 @@ publication_mode: faithful-source-preserving
 | 信用 | 暫無重大壓力 | 放款與逾期資料未顯示急劇惡化 |
 | 利率 / 政策傳導 | 具限制性 | 實質利率與落後緊縮效果仍是拖累 |
 
-## 原資料中的機率加權 regime 評估
+## 機率加權 regime 評估
 
 - **景氣循環後段：50%**
 - **持久成長：30%**

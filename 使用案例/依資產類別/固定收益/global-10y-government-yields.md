@@ -3,7 +3,6 @@ id: RX-USECASE-0040
 type: use-case
 language: zh
 locale: zh-TW
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-01
 status: published
@@ -16,12 +15,13 @@ publication_mode: faithful-source-preserving
 
 # 比較主要市場的 10 年期政府公債收益率
 
-**作者：** QUICK Inc.  
+[← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
+
 **提供日期：** 2026-09-01  
 **主要資產：** 固定收益、總體  
-**適用使用者：** Long-only 資產管理人、Hedge Fund Tier 1、財富管理 / RIA
+**適用使用者：** Long-only 資產管理人、對沖基金、財富管理 / RIA
 
-> 本頁根據 QUICK Inc. 提供的使用案例整理。已移除客戶名稱、收件人、電子郵件地址、簽名與私有 URL，同時盡可能保留原始問題、分析流程、證據與結論。數據與市場環境皆為提供日期時點的快照。
+> 本案例保留原始問題、分析流程、證據與結論。數據與市場環境皆為提供日期時點的快照。
 
 > 分析包括日本在內的主要國家，過去一年長期政府公債收益率如何變化。
 
@@ -50,7 +50,7 @@ publication_mode: faithful-source-preserving
 
 這張表刻意把兩個不同問題分開。英國的絕對收益率最高，但日本的變化最大；兩者並不是同一個訊號。
 
-## 原資料中的各國解讀
+## 各國解讀
 
 確認六個市場都往上後，下一步是問：為什麼漲幅不同？
 
@@ -84,5 +84,10 @@ publication_mode: faithful-source-preserving
 這個工作流程把簡單的跨國收益率快照轉化為比較研究：統一期限與期間、區分水準與變化、找出共同的全球方向，再隔離造成各國差異的政策與總體因素。
 
 ---
+
+
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← 固定收益使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
