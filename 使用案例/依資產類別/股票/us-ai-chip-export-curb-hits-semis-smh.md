@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/us-ai-chip-export-curb-hits-semis-smh.md
+canonical_path: usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md
 status: draft
 translation_status: review-needed
 -->
 
 # 美國 AI 晶片出口限制衝擊半導體 (SMH) — 看空
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可立即看出這不是個別公司現象，並決定在哪裡集中或避�
 
 ---
 
-[← 對沖基金 Tier 1](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
