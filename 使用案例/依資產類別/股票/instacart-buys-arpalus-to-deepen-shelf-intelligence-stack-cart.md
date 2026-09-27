@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md
+canonical_path: usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md
 status: draft
 translation_status: review-needed
 -->
 
 # Instacart：收購 Arpalus，強化貨架智慧能力 (CART) — 看多
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可在一個頁面看到交易細節：目標公司 Arpalus、貨架智慧應
 
 ---
 
-[← 對沖基金 Tier 3](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
