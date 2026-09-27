@@ -22,9 +22,9 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../README.md)
 
-**角色：** 財富管理 / RIA<br>
-**洞察類型：** Market Catalyst<br>
-**訊號：** 看多<br>
+**角色：** 財富管理 / RIA<br><br>
+**洞察類型：** Market Catalyst<br><br>
+**訊號：** 看多<br><br>
 **日期：** 2026-08-10
 
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。

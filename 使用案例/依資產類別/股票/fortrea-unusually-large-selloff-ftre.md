@@ -22,9 +22,9 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-**角色：** 對沖基金<br>
-**洞察類型：** Scenario Insight<br>
-**訊號：** 看空<br>
+**角色：** 對沖基金<br><br>
+**洞察類型：** Scenario Insight<br><br>
+**訊號：** 看空<br><br>
 **日期：** 2026-08-04
 
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
