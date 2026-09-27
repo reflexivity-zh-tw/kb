@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究與當時市場觀察。下列交易與價位皆為歷史研究輸出，不是目前的投資建議。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
 ## 起點
 
 原始研究從一個不尋常的關係出發：法國主權債收益率與高品質法國公司債收益率出現異常相對關係，同時政治風險升高。研究問題不只是這個錯價是否有意義，而是**如何透過不同市場表達這個觀點**。

@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 這份來源是更正後的追蹤研究，而不是完整的原始研究包。本頁保留實際提供的更正篩選表與決策邏輯，不重建缺失的早期輸出。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+
 ## 這份來源更正了什麼
 
 較早的輸出中，部分顯示的交易標籤與底層邏輯不一致。這份追蹤研究修正了該問題。

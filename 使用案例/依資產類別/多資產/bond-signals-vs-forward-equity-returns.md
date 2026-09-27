@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留實際 Reflexivity 研究輸出的推理結構，而不是只留下結論。數字與市場觀察均對應原始研究日期。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究檢驗了什麼
 
 問題是：債券市場某個 spread 的大幅變動，是否與後續 S&P 500 報酬存在可辨識的模式。

@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留一份有明確日期的 Reflexivity 研究輸出。目的在展示如何用多組獨立證據檢驗市場敘事，而不是只因 headline 很強就接受它。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+
 ## 研究問題
 
 **「美國經濟強勁」這個敘事是否獲得廣泛證據支持，還是主要由少數強勁 headline 撐起來？**

@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留實際 Reflexivity 研究輸出的結構與限制。重點不是主張每一條 graph 連結都代表直接的獲利敏感度，而是展示如何把總體觀點轉換成可進一步研究的 universe。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
 ## 研究問題
 
 研究並沒有停在「偏鷹政策意味利率更高」，而是把這個觀點沿著三個層級往下追蹤：

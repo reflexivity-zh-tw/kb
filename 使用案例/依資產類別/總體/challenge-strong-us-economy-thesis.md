@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 本頁保留 Reflexivity 原始研究與當時觀察。它是一個檢驗投資論點的範例，不是目前的總體預測。
 
+
+**[在 Reflexivity 中開啟原始研究 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
 ## 起始問題
 
 研究不是替「美國經濟很強」這個 headline 蒐集支持證據，而是問：**這個觀點正在從哪裡開始鬆動？**
