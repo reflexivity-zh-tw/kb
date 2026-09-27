@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/xerox-unusually-large-selloff-xrx.md
+canonical_path: usecases/byasset/equities/xerox-unusually-large-selloff-xrx.md
 status: draft
 translation_status: review-needed
 -->
 
 # Xerox：異常大幅拋售 (XRX) — 看多訊號
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可以快速、基於證據了解這種設定歷史上如何演化，並將�
 
 ---
 
-[← 對沖基金 Tier 2](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
