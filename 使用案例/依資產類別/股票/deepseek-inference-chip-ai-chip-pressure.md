@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/deepseek-inference-chip-ai-chip-pressure.md
+canonical_path: usecases/byasset/equities/deepseek-inference-chip-ai-chip-pressure.md
 status: draft
 translation_status: review-needed
 -->
 
 # DeepSeek 推理晶片 / AI 晶片壓力 — 看空
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可立即看出替代風險主要集中在高估值的 merchant GPU，而多�
 
 ---
 
-[← 對沖基金 Tier 1](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
