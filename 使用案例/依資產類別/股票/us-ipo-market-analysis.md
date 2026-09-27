@@ -25,6 +25,8 @@ publication_mode: faithful-source-preserving
 
 > 列出今年已完成的主要美國 IPO，分析其市場影響；並分析年底前被報導或預期可能進行的大型 IPO。
 
+![美國 IPO 市場的已完成交易與後續供給管線](../../../圖片/使用案例/quick/RX-USECASE-0048/source-visuals.webp)
+
 ## 研究目標
 
 不能只看總募資額來判斷 IPO 市場強弱。單一超大型交易可能主導整體發行金額，而上市後表現疲弱則可能顯示投資人仍高度挑選標的。
@@ -100,10 +102,6 @@ publication_mode: faithful-source-preserving
 - 原資料指出 SK hynix 的美國上市性質不同於一般新公司 IPO。
 - 整體發行金額可能被異常大型交易扭曲。
 
-## 視覺資料
-
-經審閱的日文公開頁面包含一張經驗證的 QUICK 原始視覺。該圖片尚未以位元組一致方式同步到英文與下游倉庫，因此本頁不發布損壞連結，也不使用替代圖片。
-
 ## 資料來源
 
 QUICK 研究結合上市市場 time series、IPO 報導、prediction-market 資訊與 IPO 統計。內部 Research URL 不對外發布。
@@ -113,13 +111,6 @@ QUICK 研究結合上市市場 time series、IPO 報導、prediction-market 資�
 這個例子把 IPO 市場視為供需系統：先評估已發行交易的實際品質，再看未來供給管線，最後分析發行集中度如何影響更廣泛的資本配置。
 
 ---
-
-
-
-
-
-
-
 
 本內容由 QUICK 提供。
 

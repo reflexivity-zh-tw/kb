@@ -48,6 +48,10 @@ publication_mode: faithful-source-preserving
 
 原資料把較高的美國殖利率、較大的利差與日圓走弱視為外部壓力，可能強化 BOJ normalization 與日本殖利率上升。
 
+![美國與日本長期殖利率](../../../圖片/使用案例/quick/RX-USECASE-0054/01-us-japan-long-yields.webp)
+
+![USD/JPY 與 Nikkei 225](../../../圖片/使用案例/quick/RX-USECASE-0054/03-usdjpy-nikkei.webp)
+
 ## 為什麼 FX 要放在產業判斷之前
 
 利差的重要性部分來自它對日圓的影響。
@@ -71,6 +75,8 @@ publication_mode: faithful-source-preserving
 | 銀行 | +30.3% | +1.9% | 較寬利差／較高再投資收益率提供順風 |
 | 房地產 | +7.5% | -3.7% | 融資成本與折現率形成逆風 |
 | 汽車／出口商 | -4.7% | -5.6% | 日圓利多被美國成長與關稅擔憂抵銷 |
+
+![銀行、房地產與汽車主題表現](../../../圖片/使用案例/quick/RX-USECASE-0054/02-theme-performance.webp)
 
 ### 銀行
 
@@ -98,20 +104,12 @@ publication_mode: faithful-source-preserving
 
 - 原資料中的主題報酬使用 Reflexivity equal-weight baskets，不是單一股票結果。
 - 總體解讀是依當時可見關係建立的情境，不是確定結果。
-- 經審閱的日文頁面包含三張經驗證的原始視覺；binary 尚未同步驗證到英文與下游倉庫，因此本頁不加入損壞連結或替代圖片。
 
 ## 本使用案例說明了什麼
 
 這是一個可重複的跨資產流程：把海外利率衝擊沿著利差、匯率、貨幣政策反應與國內產業表現逐步追蹤。
 
 ---
-
-
-
-
-
-
-
 
 本內容由 QUICK 提供。
 

@@ -52,6 +52,8 @@ publication_mode: faithful-source-preserving
 
 先建立起點，是因為同樣的衝擊對已大幅延伸的資產與仍相對低迷的資產，邊際影響可能完全不同。
 
+![主要資產的一年期標準化路徑](../../../圖片/使用案例/quick/RX-USECASE-0059/01-normalized-asset-paths.webp)
+
 ## 短期與中期情境範圍
 
 | 資產 | 原資料起始水準 | 1–7 日情境 | 1–6 個月情境 |
@@ -62,6 +64,8 @@ publication_mode: faithful-source-preserving
 | DXY | 97.74 | +2% 至 +5% | +1% 至 +4% |
 
 這些範圍是原資料中的**情境輸出**，不是實際觀察結果，也不是發生機率。
+
+![短期與中期情境範圍](../../../圖片/使用案例/quick/RX-USECASE-0059/02-scenario-ranges.webp)
 
 ## 為什麼要區分短期與中期
 
@@ -106,6 +110,8 @@ publication_mode: faithful-source-preserving
 - 股票：初期下行風險與後續 normalization 的可能性；
 - 美元：防禦性需求與中期總體抵銷力量之間的拉鋸。
 
+![跨資產風險報酬圖](../../../圖片/使用案例/quick/RX-USECASE-0059/03-risk-return-map.webp)
+
 ## 如何使用結果
 
 重點不是挑一個情境區間當成預測。
@@ -120,22 +126,11 @@ publication_mode: faithful-source-preserving
 
 如果這些條件改變，就應重新校準資產情境，而不是固守原區間。
 
-## 視覺資產狀態
-
-經審閱的日文來源包含三張已驗證視覺：一年期 normalized asset paths、短／中期 scenario ranges、risk/return map。這些 binary 尚未同步驗證到英文與下游倉庫，因此本頁刻意不加入圖片連結。
-
 ## 本使用案例說明了什麼
 
 這是一個把地緣政治衝擊轉成跨資產研究流程的 scenario-analysis template，同時明確保留起始點、時間 horizon、傳導機制、歷史校準，以及會使情境失效的條件。
 
 ---
-
-
-
-
-
-
-
 
 本內容由 QUICK 提供。
 

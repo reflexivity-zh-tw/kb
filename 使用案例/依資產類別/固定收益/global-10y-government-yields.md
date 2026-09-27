@@ -50,6 +50,8 @@ publication_mode: faithful-source-preserving
 
 這張表刻意把兩個不同問題分開。英國的絕對收益率最高，但日本的變化最大；兩者並不是同一個訊號。
 
+![主要市場 10 年期政府公債殖利率比較](../../../圖片/使用案例/quick/RX-USECASE-0040/source-visuals.webp)
+
 ## 各國解讀
 
 確認六個市場都往上後，下一步是問：為什麼漲幅不同？
@@ -84,13 +86,6 @@ publication_mode: faithful-source-preserving
 這個工作流程把簡單的跨國收益率快照轉化為比較研究：統一期限與期間、區分水準與變化、找出共同的全球方向，再隔離造成各國差異的政策與總體因素。
 
 ---
-
-
-
-
-
-
-
 
 本內容由 QUICK 提供。
 

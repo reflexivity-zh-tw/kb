@@ -45,7 +45,7 @@ publication_mode: faithful-source-preserving
 
 理解事件後，下一步是看市場多快把資訊反映進價格。即使戰略意義很大的公告，如果估值、交易成本或整合風險抵銷了策略邏輯，股價反應仍可能平淡甚至負面。
 
-經審閱的日文公開頁面包含一張經驗證的 QUICK 原始市場反應圖片。該圖片尚未以位元組一致方式同步到英文與下游倉庫，因此本頁**不發布損壞連結，也不使用替代圖片**。
+![NVIDIA catalyst 的市場反應](../../../圖片/使用案例/quick/RX-USECASE-0057/02-nvidia-market-reaction.webp)
 
 ## 閱讀管理層的解釋
 
@@ -92,13 +92,6 @@ Company Catalyst 最有價值的情況，是它能把 headline 轉成研究地�
 這個例子展示如何從公司 headline 出發，經過市場反應與管理層 framing，再延伸到競爭、網路、監管與地域後果，而不把 headline 本身當成最終投資結論。
 
 ---
-
-
-
-
-
-
-
 
 本內容由 QUICK 提供。
 
