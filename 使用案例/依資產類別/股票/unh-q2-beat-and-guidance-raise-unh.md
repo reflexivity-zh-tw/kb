@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/unh-q2-beat-and-guidance-raise-unh.md
+canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: draft
 translation_status: review-needed
 -->
 
 # UNH：Q2 優於預期並上調指引 (UNH) — 看多
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可直接取得可執行數字：Q2 EPS $6.38 vs $4.85 預期，營收 $112.0
 
 ---
 
-[← 對沖基金 Tier 2](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
