@@ -18,13 +18,13 @@ translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af
 -->
 
-# Gulf Resources：分析師下調銷售預測 (GURE) — 看空訊號
+# Gulf Resources：分析師下調銷售預測 (GURE)
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-**角色：** 對沖基金<br><br>
-**洞察類型：** Scenario Insight<br><br>
-**訊號：** 看空<br><br>
+**角色：** 對沖基金<br>
+**洞察類型：** Scenario Insight<br>
+**訊號：** 看空<br>
 **日期：** 2026-08-11
 
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。

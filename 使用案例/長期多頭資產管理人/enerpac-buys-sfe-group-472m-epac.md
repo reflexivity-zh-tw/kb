@@ -22,9 +22,9 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-
 
 [← Long-only 資產管理人使用案例](README.md) · [全部使用案例](../README.md)
 
-**角色：** Long-only 資產管理人<br><br>
-**洞察類型：** Company Catalyst<br><br>
-**訊號：** 看多<br><br>
+**角色：** Long-only 資產管理人<br>
+**洞察類型：** Company Catalyst<br>
+**訊號：** 看多<br>
 **日期：** 2026-07-08
 
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。

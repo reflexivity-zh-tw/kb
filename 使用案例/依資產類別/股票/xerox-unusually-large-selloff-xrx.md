@@ -18,13 +18,13 @@ translation_status: current
 source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c
 -->
 
-# Xerox：異常大幅拋售 (XRX) — 看多訊號
+# Xerox：異常大幅拋售 (XRX)
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
 
-**角色：** 對沖基金<br><br>
-**洞察類型：** Scenario Insight<br><br>
-**訊號：** 看多<br><br>
+**角色：** 對沖基金<br>
+**洞察類型：** Scenario Insight<br>
+**訊號：** 看多<br>
 **日期：** 2026-07-08
 
 > 本案例是特定時點的平台輸出。用於目前投資判斷前，請先與最新市場資料核對；否則僅應作為說明性案例使用。
