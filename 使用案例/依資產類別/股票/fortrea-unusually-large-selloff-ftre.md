@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/fortrea-unusually-large-selloff-ftre.md
+canonical_path: usecases/byasset/equities/fortrea-unusually-large-selloff-ftre.md
 status: draft
 translation_status: review-needed
 -->
 
 # Fortrea：異常大幅拋售 (FTRE) — 看空訊號
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 可在幾分鐘內完成投資邏輯檢查。歷史分布明顯偏負面：6 
 
 ---
 
-[← 對沖基金 Tier 3](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
