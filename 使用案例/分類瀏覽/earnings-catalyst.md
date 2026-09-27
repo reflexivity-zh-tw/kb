@@ -2,11 +2,11 @@
 
 ## 對沖基金 Tier 2
 
-- [Cardinal Health：業績乾淨優於預期，FY27 展望更強 (CAH)](../對沖基金Tier2/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md)
-- [Simon Property Group：業績分化，上調指引 (SPG)](../對沖基金Tier2/simon-property-group-mixed-print-guide-raised-spg.md)
-- [TransDigm：業績優於預期並上調展望 (TDG)](../對沖基金Tier2/transdigm-clean-beat-and-higher-outlook-tdg.md)
-- [UNH：Q2 優於預期並上調指引 (UNH)](../對沖基金Tier2/unh-q2-beat-and-guidance-raise-unh.md)
-- [Root：7 月 8 日業務更新 (ROOT)](../對沖基金Tier2/root-jul-8-business-update-root.md)
+- [Cardinal Health：業績乾淨優於預期，FY27 展望更強 (CAH)](../依資產類別/股票/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md)
+- [Simon Property Group：業績分化，上調指引 (SPG)](../依資產類別/股票/simon-property-group-mixed-print-guide-raised-spg.md)
+- [TransDigm：業績優於預期並上調展望 (TDG)](../依資產類別/股票/transdigm-clean-beat-and-higher-outlook-tdg.md)
+- [UNH：Q2 優於預期並上調指引 (UNH)](../依資產類別/股票/unh-q2-beat-and-guidance-raise-unh.md)
+- [Root：7 月 8 日業務更新 (ROOT)](../依資產類別/股票/root-jul-8-business-update-root.md)
 
 ## Long-only 資產管理人
 
