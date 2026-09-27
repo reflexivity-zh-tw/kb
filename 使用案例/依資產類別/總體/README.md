@@ -4,13 +4,13 @@
 
 ## 使用案例
 
-- [檢驗「美國經濟仍然強勁」的敘事](challenge-strong-us-economy-thesis.md) — `RX-USECASE-0035`
-- [比較市場敘事與硬數據廣度](market-narrative-vs-hard-data-breadth.md) — `RX-USECASE-0036`
-- [建立結構化長篇研究提問](structured-long-form-research-prompts.md) — `RX-USECASE-0039`
-- [建立 FOMC 升息情境](fomc-rate-hike-scenarios.md) — `RX-USECASE-0041`
-- [整理每週美國市場事件](weekly-us-market-events.md) — `RX-USECASE-0042`
-- [使用 Market Catalyst 篩選 Beige Book 重點](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
-- [建立 Jackson Hole 講話情境與可能市場反應](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
+- [檢驗「美國經濟仍然強勁」的敘事](challenge-strong-us-economy-thesis.md)
+- [比較市場敘事與硬數據廣度](market-narrative-vs-hard-data-breadth.md)
+- [建立結構化長篇研究提問](structured-long-form-research-prompts.md)
+- [建立 FOMC 升息情境](fomc-rate-hike-scenarios.md)
+- [整理每週美國市場事件](weekly-us-market-events.md)
+- [使用 Market Catalyst 篩選 Beige Book 重點](beige-book-market-catalyst-workflow.md)
+- [建立 Jackson Hole 講話情境與可能市場反應](jackson-hole-scenario-analysis.md)
 
 - [觀察美中峰會前後 S&P 500 的走勢](us-china-summit-sp500-impact.md)
 
