@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/root-jul-8-business-update-root.md
+canonical_path: usecases/byasset/equities/root-jul-8-business-update-root.md
 status: draft
 translation_status: review-needed
 -->
 
 # Root：7 月 8 日業務更新 (ROOT) — 中性
+
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 <div align="right">
 作者: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM 會被引導避免追逐未經確認的上漲。平台將其視為需要後�
 
 ---
 
-[← 對沖基金 Tier 2](README.md) · [← 全部使用案例](../README.md)
+[← 股票使用案例](README.md) · [全部使用案例](../../README.md)
 
 如有問題或需要更多資訊，請聯絡 **gtm@reflexivity.com**。
